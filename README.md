@@ -2,6 +2,9 @@
 Este repositório é dedicado ao quarto episódio da tarefa "Hora de Codar!". Nele, trabalhamos com arrays e manipulação de dados.  
 
 # OBS: Em breve pretendo fazer um remake deste episódio.
+
+---
+
 ## Exercícios
 
 ### 1. Cadastro de Estudantes
@@ -35,3 +38,5 @@ O programa exibe uma lista de frutas para o usuário e solicita que ele digite u
 
 ## Autor
 Este projeto foi desenvolvido como parte de exercícios de prática em programação, proposto pelo Professor Gabriel.
+
+---
